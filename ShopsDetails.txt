@@ -1,0 +1,124 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.575950,
+                    77.227348
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Pets Food",
+                "hours": "10am - 6pm",
+                "description": "Royal Pets Food,Delhi is known to satisfactorily cater to the demands of its customer base. ",
+                "name": "Royal Pets Food",
+                "phone": "+91 98 1234 5678",
+                "storeid": "01"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [28.639711, 
+                    77.095934
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Pets Food",
+                "hours": "8am - 9:30pm",
+                "description": "A delicious array of pastries in an dog cafe.",
+                "name": "Pet Food Bazaar",
+                "phone": "+91 70 5374 1477",
+                "storeid": "02"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [13.057058, 
+                    80.251936
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Pets Food",
+                "hours": "8am - 9:30pm",
+                "description": "FEKRIX 2 THICK PLAIN NYLON DOG COLLAR PLUG 18 INCH",
+                "name": "The Pet Store",
+                "phone": "+91 70 9884 1477",
+                "storeid": "03"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.319575,
+                    52.517827
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Pets Food",
+                "hours": "24X7",
+                "description": "Royal Canin Dry Dog Food Maxi Puppy, Meat Flavour Area",
+                "name": "Uniq Pet Foods",
+                "phone": "+91 99 90004 1477",
+                "storeid": "04"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [19.059171, 
+                    72.857445
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "Pets Food",
+                "hours": "24x7",
+                "description": "Huft brings you the top premium pet food brand at your doorstep. HUFT : Offers on Online Pet",
+                "name": "Pet Foods Dealer",
+                "phone": "+44 1313 131313",
+                "storeid": "11"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-3.319575,
+                    52.517827
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Come in and unwind at this idyllic cafe with fresh coffee and home made cakes. We're part of a larger chain of patisseries and cafes.",
+                "name": "Josie's Cafe Newtown",
+                "phone": "+44 1414 141414",
+                "storeid": "12"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.158167,
+                    52.071634
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "category": "cafe",
+                "hours": "8am - 9:30pm",
+                "description": "Fresh coffee and delicious cakes in an snug cafe. We're part of a larger chain of patisseries and cafes.",
+                "name": "Josie's Cafe Ipswich",
+                "phone": "+44 1717 17171",
+                "storeid": "05"
+            }
+        }
+    ]
+}
